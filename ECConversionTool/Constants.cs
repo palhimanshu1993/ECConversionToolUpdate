@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ECConversionTool
 {
+    /// <summary>
+    /// This class contains all the constants
+    /// </summary>
     internal class Constants
     {
         public const string Path = @"D:\Test_EC\Hawk64\User";
@@ -20,7 +23,7 @@ namespace ECConversionTool
     }
 
     /// <summary>
-    /// 
+    /// This enum contains slice mode values for all the enums
     /// </summary>
     public enum SliceMode
     {
