@@ -23,7 +23,7 @@ namespace ECConversionTool
     }
 
     /// <summary>
-    /// This enum contains slice mode values for all the enums
+    /// This enum contains slice mode values for  different scanner types
     /// </summary>
     public enum SliceMode
     {
